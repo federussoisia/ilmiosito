@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    font-family: monospace;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: crimson;
+    text-decoration: none;
+}
