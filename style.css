@@ -1,6 +1,7 @@
 body {
     background-color: aquamarine;
-    font-family: monospace;
+    font-family: 'HalyardDis_ISIAU Bk';
+    font-size: 28px;
 }
 
 a {
@@ -11,4 +12,11 @@ a {
 a:hover {
     color: crimson;
     text-decoration: none;
+}
+
+a {
+    border-bottom: 1px solid black;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
 }
