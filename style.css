@@ -20,3 +20,7 @@ a {
     border-bottom-style: solid;
     border-bottom-color: black;
 }
+
+div {
+    background-color: grey;
+}
